@@ -2,7 +2,7 @@
 
 Türkiye'den **kısa süreli (C tipi) Schengen vizesine** başvuracak kişilere, özellikle öğrencilere, resmi belgelere dayanarak ve **kaynak göstererek** cevap veren bir RAG sohbet asistanı. Belgelerde olmayan bir şey sorulduğunda uydurmak yerine "bulamadım" der.
 
-> 🎥 **Demo videosu:** _yakında_
+
 >
 > ⚠️ Bilgilendirme amaçlıdır. Vize ücret ve şartları değişebilir; başvurudan önce ilgili konsolosluktan teyit edin.
 
